@@ -1,0 +1,12 @@
+beautifulsoup4==4.3.2
+decorator==4.4.2
+Flask==1.1.2
+Jinja2==2.11.2
+json5==0.9.5
+numpy==1.18.5
+Werkzeug==1.0.1
+yahoo==0.1
+yahoo-finance==1.4.0
+yfinance==0.1.55
+pandas==1.1.5
+gunicorn==19.9.0
