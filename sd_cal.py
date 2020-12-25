@@ -15,7 +15,6 @@ Created on Sun Dec 13 17:21:14 2020
 import datetime
 import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt
 import math
 import numpy as np
 
