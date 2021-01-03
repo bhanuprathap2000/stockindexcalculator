@@ -17,6 +17,7 @@ def calculate():
         s1n,s1p,s2n,s2p=indexrangecal(indexname,spotvalue,daystoexpiry)
         
         return render_template("calculate.html",index_name=indexname,lowerbound1n=s1n,upperbound1p=s1p,lowerbound2n=s2n,upperbound2p=s2p)
+    
 
 if __name__=="__main__":
     app.run()
